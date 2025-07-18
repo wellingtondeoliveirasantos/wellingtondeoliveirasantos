@@ -37,7 +37,7 @@
 
 <div style="display: inline_block">
    <img align="center" alt="Browserstack" src="https://img.shields.io/badge/Browserstack-999989?style=for-the-badge&logo=Browserstack&logoColor=white" />
-   <img align="center" alt="Lambdatest" src="https://img.shields.io/badge/Browserstack-999989?style=for-the-badge&logo=Browserstack&logoColor=white" />
+   <img align="center" alt="Lambdatest" src="https://img.shields.io/badge/Lambdatest-999989?style=for-the-badge&logo=Browserstack&logoColor=white" />
 </div>
 
 #### Banco de Dados
